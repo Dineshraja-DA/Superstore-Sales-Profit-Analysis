@@ -1,7 +1,8 @@
 # Superstore-Sales-Profit-Analysis
 Created Tableau dashboards to track sales, profit, and key metrics across regions and product categories. Analyzed trends in sales growth, order quality, and profit margins, providing actionable insights to optimize sales strategies, enhance business performance, and drive profitability.
 
-The questions about this dataset:
+# The questions about this dataset:
+
 What is the purpose of the Tableau dashboards created in this project?
 
 1.What key metrics are tracked in the dashboards (e.g., sales, profit, etc.)?
