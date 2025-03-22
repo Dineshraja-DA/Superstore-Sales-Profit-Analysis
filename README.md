@@ -5,9 +5,15 @@ The questions about this dataset:
 What is the purpose of the Tableau dashboards created in this project?
 
 1.What key metrics are tracked in the dashboards (e.g., sales, profit, etc.)?
+
 2.What is the average order value across different categories, and how does it vary over time?
-4.Which region has the highest sales, and how does it compare to other regions?
-6.What actionable insights were provided to optimize sales strategies?
-7.Which product sub-category has the highest sales, and which one is underperforming?
-8.How does the discount rate affect the profit margin, and are there any categories where higher discounts lead to losses?
-9.Which state contributes the most to total sales, and how does it compare to others?
+
+3.Which region has the highest sales, and how does it compare to other regions?
+
+4.What actionable insights were provided to optimize sales strategies?
+
+5.Which product sub-category has the highest sales, and which one is underperforming?
+
+6.How does the discount rate affect the profit margin, and are there any categories where higher discounts lead to losses?
+
+7.Which state contributes the most to total sales, and how does it compare to others?
